@@ -18,3 +18,21 @@ components that have the btn class name.
 .btn {
     font-size: 18;
 }
+
+.my-btn {
+    background: #7c015d;
+    border-width: 1;
+    border-color: #7c015d;
+    color: white;
+    width: 250;
+    padding: 5 10;
+    margin: 5 0;
+}
+
+.my-txt-field {
+    border-bottom-color: green;
+    border-bottom-width: 2;
+    margin: 5 0;
+    font-size: 20;
+    padding: 8 4;
+}

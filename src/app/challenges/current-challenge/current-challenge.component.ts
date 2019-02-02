@@ -18,7 +18,7 @@ export class CurrentChallengeComponent implements OnInit {
     }
 
     onTap(): void {
-        this.currentChallenge = 'The text is: ' + this.challengeDesc
+        this.currentChallenge = this.challengeDesc
     }
 
 }

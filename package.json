@@ -35,5 +35,8 @@
         "@angular/compiler-cli": "~7.1.0",
         "@ngtools/webpack": "~7.1.0"
     },
-    "readme": "NativeScript Application"
+    "readme": "NativeScript Application",
+    "scripts": {
+        "preview": "tns preview"
+    }
 }
